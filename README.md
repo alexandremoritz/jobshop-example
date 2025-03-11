@@ -2,7 +2,7 @@
 
 A modern, interactive job shop scheduling application built with React and TypeScript.
 
-This application shows some examples of the optimization of manufacturing processes by efficiently scheduling jobs across multiple machines while considering maintenance windows and various scheduling algorithms
+This application shows some examples of the optimization of manufacturing processes by efficiently scheduling jobs across multiple machines while considering maintenance windows and various scheduling algorithms. It should not be use, this is only an example!
 
 
 ## Features
@@ -129,9 +129,3 @@ npm run dev
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Inspired by real-world manufacturing scheduling challenges
-- Built with modern web technologies for optimal performance
-- Designed for both small and large-scale production environments
